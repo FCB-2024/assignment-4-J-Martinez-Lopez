@@ -41,7 +41,7 @@ def main(x) :
             div_y = 0
         
     if (div_x > div_y) :
-        res = "anti-prime"
+        res = "antiprime"
     return(res)
 
 ## DO NOT REMOVE THIS LINE BELOW
