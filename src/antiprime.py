@@ -41,7 +41,7 @@ def main(x) :
             div_y = 0
         
     if (div_x > div_y) :
-        res = "antiprime"
+        res = "anti-prime"
     return(res)
 
 ## DO NOT REMOVE THIS LINE BELOW
@@ -57,7 +57,7 @@ if __name__ == "__main__" :
     else :
         print (f"error: antiprime.py <x>")
     
-    print(main(x))
+print(main(x))
 
 
 
