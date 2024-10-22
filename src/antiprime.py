@@ -57,7 +57,7 @@ if __name__ == "__main__" :
     else :
         print (f"error: antiprime.py <x>")
     
-print(main(x))
+    print(main(x))
 
 
 
